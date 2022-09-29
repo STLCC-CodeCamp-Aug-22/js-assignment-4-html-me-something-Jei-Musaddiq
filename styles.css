@@ -41,8 +41,8 @@ article {
     border-radius: 25px;
 }
 
-#mainHeading {
-   color: indianred;
+h1#mainHeading {
+   color: red;
 }
 
 #testP {
