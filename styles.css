@@ -1,1 +1,50 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgb(27, 27, 27);
+}
+
+p {
+    word-spacing: 3px;
+    font-size: 18px;
+    color: rgb(235, 199, 152);
+}
+
+h4, h3, h2, h1 {
+    
+    color: aqua;
+}
+
+#MobPsycho {
+    color: aqua;
+
+}
+
+li {
+    text-decoration: underline 15%;
+    text-decoration-color: rgb(128, 99, 233);
+    color:crimson;
+}
+
+ul.animelist {
+    list-style-type: square;
+}
+
+article {
+    
+    margin-top: 150px;
+    box-sizing: border-box;
+    width: 800px;
+    border: 5px solid rgb(201, 160, 255);
+    padding: 15px;
+    border-radius: 25px;
+}
+
+h1#mainHeading {
+   color: red;
+}
+
+#testP {
+    color: green;
+}
